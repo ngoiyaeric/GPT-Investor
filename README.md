@@ -1,2 +1,2 @@
 # financeGPT
-financeGPT with OpenAI
+GPT-Investor
