@@ -1,4 +1,4 @@
-# financeGPT
+# GPT-Investor: Market Analysis
 GPT-Investor | remix of https://github.com/mshumer release of the gpt-investor repo.
 
 
