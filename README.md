@@ -1,5 +1,7 @@
 # financeGPT
-GPT-Investor | remix of https://github.com/mshumer release of the gpt-investor repo
+GPT-Investor | remix of https://github.com/mshumer release of the gpt-investor repo.
+
+
 GPT-Investor is an experimental investment analysis agent that utilizes the gpt-4-turbo to provide comprehensive insights and recommendations for stocks in a given industry. It retrieves financial data, news articles, and analyst ratings for companies, performs sentiment analysis, and generates comparative analyses to rank the companies based on their investment potential.
 
 Workflow
