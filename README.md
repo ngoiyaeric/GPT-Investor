@@ -1,0 +1,2 @@
+# financeGPT
+financeGPT with OpenAI
