@@ -26,12 +26,7 @@ When prompted, enter the industry you want to analyze.
 
 Wait for the AI system to produce a report.
 
-Improvements: 
 
-
-1. Enable cross industry parallel Asset Management. 
-2. Utilize OpenAI Assistants for further data science analysis via code-interpreter and function calling. 
-3. Enable GPT to manage a real portfolio. 
 
 
 Disclaimer
@@ -44,6 +39,12 @@ Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 Some known improvement areas:
+Improvements: 
 
-improve the industry analysis module to use real-time data
+
+1. Enable cross industry parallel Asset Management. 
+2. Utilize OpenAI Assistants for further data science analysis via code-interpreter and function calling. 
+3. Real time data
+4. Enable GPT to manage a real portfolio.
+   
 
